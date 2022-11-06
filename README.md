@@ -4,7 +4,7 @@
 
 <h3>görüntüler</h3>
 
-![](https://github.com/MFKORKMAZ42/first-work-2.git/gifafrica.gif)
+![](https://github.com/MFKORKMAZ42/first-work-2/blob/main/gifafrica.gif)
 <br/>
  <br/>
  
