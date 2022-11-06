@@ -5,7 +5,7 @@
 <h3>Africa Continent Theme</h3>
 <p>An image and a video have been harmonized successfully!</p>
 
-<h3>görüntüler</h3>
+<h3>Africa Project Preview </h3>
 
 ![](https://github.com/MFKORKMAZ42/first-work-2/blob/main/gifafrica.gif)
 <br/>
