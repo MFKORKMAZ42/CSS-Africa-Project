@@ -4,5 +4,7 @@
 
 <h3>görüntüler</h3>
 
-![](gif.mp4)
+![](https://github.com/MFKORKMAZ42/first-work-2.git/gifafrica.gif)
+<br/>
+ <br/>
  
