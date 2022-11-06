@@ -1,6 +1,9 @@
 <h1>Africa MFK</h1>
 
-<h2>github read me gif yükleme çabası</h2>
+<h2>Africa Introduction</h2>
+<p>The visuality of this web page has been supplied by using CSS blend.</p>
+<h3>Africa Continent Theme</h3>
+<p>An image and a video have been harmonized successfully!</p>
 
 <h3>görüntüler</h3>
 
